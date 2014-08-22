@@ -6,7 +6,7 @@ angular.module('crossroads')
     return {
         restrict: 'E',
         replace: true,
-        templateUrl: '/templates/addthis.html'
+        templateUrl: 'crossroads.net/templates/addthis.html'
     };
 });
 
